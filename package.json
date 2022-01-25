@@ -1,0 +1,15 @@
+{
+  "name": "kiss-logger",
+  "version": "1.0.0",
+  "description": "A simple nodejs logger",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Avash Mitra",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "mongoose": "^6.1.8"
+  },
+  "devDependencies": {}
+}
