@@ -1,6 +1,6 @@
 {
-  "name": "kiss-logger",
-  "version": "1.0.2",
+  "name": "mini-mongo-logger",
+  "version": "1.0.0",
   "description": "A simple nodejs logger",
   "main": "index.js",
   "scripts": {},
@@ -23,10 +23,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Avash027/kiss-logger.git"
+    "url": "git+https://github.com/Avash027/mini-mongo-logger.git"
   },
   "bugs": {
-    "url": "https://github.com/Avash027/kiss-logger/issues"
+    "url": "https://github.com/Avash027/mini-mongo-logger/issues"
   },
-  "homepage": "https://github.com/Avash027/kiss-logger#readme"
+  "homepage": "https://github.com/Avash027/mini-mongo-logger#readme"
 }
