@@ -9,9 +9,8 @@
   <a href="https://github.com/Avash027/kiss-logger/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/Avash027/kiss-logger/blob/master/LICENSE" target="_blank">
-    <img alt="License: ISC" src="https://img.shields.io/github/license/Avash027/kiss-logger" />
-  </a>
+    <img alt="License: MIT" src="https://img.shields.io/github/license/Avash027/kiss-logger" />
+  
 </p>
 
 > Add a really simple, lightweight and easy to use logger to your next MERN stack web application with just 2 lines of code.
@@ -39,8 +38,16 @@ Now you can use logger in your server
 
 ```js
 const { logger } = require("kiss-logger");
+```
 
-logger.warn("Warning");
+## Log types
+
+```js
+logger.success("success");
+logger.warn("warn");
+logger.error("error");
+logger.info("info");
+logger.other("other");
 ```
 
 ## Author
