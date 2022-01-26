@@ -6,7 +6,7 @@
   "scripts": {},
   "keywords": [],
   "author": "Avash Mitra",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.0.0",
     "mongoose": "^6.1.8"
