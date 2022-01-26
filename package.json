@@ -11,5 +11,13 @@
     "chalk": "^4.0.0",
     "mongoose": "^6.1.8"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avash027/kiss-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Avash027/kiss-logger/issues"
+  },
+  "homepage": "https://github.com/Avash027/kiss-logger#readme"
 }

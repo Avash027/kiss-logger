@@ -1,10 +1,10 @@
 const chalk = require("chalk");
 
-const infoColor = chalk.hex("#0000FF");
-const errorColor = chalk.hex("#FF0000");
-const warnColor = chalk.hex("#FFA500");
-const successColor = chalk.hex("#00FF00");
-const otherColor = chalk.hex("#FFFFFF");
+const infoColor = chalk.bgHex("#0000FF").bold;
+const errorColor = chalk.bgHex("#FF0000").bold;
+const warnColor = chalk.bgHex("#FFA500").bold;
+const successColor = chalk.bgHex("#00FF00").bold.black;
+const otherColor = chalk.bgHex("#FFFFFF").bold.black;
 
 module.exports = {
   infoColor,

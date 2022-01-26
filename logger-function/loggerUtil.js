@@ -11,7 +11,7 @@ const loggerUtil = async (text, type, isProduction, textColor) => {
         text,
       });
     } else {
-      console.log(textColor(type), text);
+      console.log(textColor(type + " "), text);
     }
   } catch (error) {
     console.log(error);
