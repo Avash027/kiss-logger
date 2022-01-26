@@ -4,7 +4,16 @@
   "description": "A simple nodejs logger",
   "main": "index.js",
   "scripts": {},
-  "keywords": [],
+  "keywords": [
+    "node",
+    "mongodb",
+    "logger",
+    "log",
+    "mongoose",
+    "nodejs",
+    "express",
+    "expressjs"
+  ],
   "author": "Avash Mitra",
   "license": "MIT",
   "dependencies": {
